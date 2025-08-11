@@ -2,6 +2,6 @@
   "name": "Test Token",
   "symbol": "TTKN",
   "description": "Devnet test token",
-  "image": "https://raw.githubusercontent.com/cma93/test/refs/heads/main/dog.jpg",
+  "image": "https://cdn.jsdelivr.net/gh/cma93/test@main/dog.jpg"
   "extensions": { "website": "https://example.com" }
 }
